@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a Music Recommendation System developed in Python using a Jupyter Notebook. It recommends songs from a database based on provided attributes such as duration, explicit content, popularity, and various musical characteristics like happiness, acousticness, danceability, energy, instrumentalness, loudness, and tempo. The recommendations are generated using a soft set-based approach.
+Dataset: [Kaggle](https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset/data) 
 
 ## Example 
 IN: 
